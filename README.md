@@ -1,4 +1,4 @@
-# Capstone-Project-Supervised-ML-Regression-Yess-Bank-Stock-Closing-Price-Prediction-
+# Capstone-Project-Supervised-ML-Regression-Yes-Bank-Stock-Closing-Price-Prediction-
 
 ![](https://upload.wikimedia.org/wikipedia/commons/d/d1/Yes_Bank_Logo-01.png)
 
